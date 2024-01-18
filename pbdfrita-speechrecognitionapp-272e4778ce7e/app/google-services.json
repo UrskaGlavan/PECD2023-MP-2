@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595049723790",
+    "project_id": "speechrecognitionobup2",
+    "storage_bucket": "speechrecognitionobup2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595049723790:android:9db6f713c3c94ea00cd6df",
+        "android_client_info": {
+          "package_name": "com.example.speechrecognitionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_xDL-_Rv3O53Lqp82eygjs33_sObtGyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
